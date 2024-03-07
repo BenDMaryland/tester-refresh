@@ -7,14 +7,12 @@ function Game() {
 
         for (let i = 0; i < 10; i++) {
            let output = "*".repeat(i)
-
-
             console.log(output)
-
         }
     }
 
     consolePrinter()
+    
 
 
 
